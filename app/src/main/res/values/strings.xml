@@ -8,6 +8,12 @@
     <string name="previous">Previous</string>
 
     <string name="start">START</string>
+    <string name="summary">TO SUMMARY</string>
     <string name="welcome">Welcome to the Games Rating app!</string>
     <string name="click">Click START to start rating :)</string>
+    <string name="rate">Rate the following game from 1 to 5 stars!</string>
+    <string name="game_name">Shadow of the Tombraider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_over">Start over</string>
 </resources>
